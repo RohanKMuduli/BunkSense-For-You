@@ -181,4 +181,4 @@ It helps students understand their attendance, predict risks, plan bunks strateg
 
 ## 👨‍💻 Author
 
-Created by **Sambit Moharana**
+Created by **Rohan Kumar Muduli**
